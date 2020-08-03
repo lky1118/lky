@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.xiaoshu.dao.TbGoodsMapper">
+
+  <select id="findPage" parameterType="com.xiaoshu.vo.Gvo" resultType="com.xiaoshu.vo.Gvo">
+	SELECT
+	gs.*,gt.t_typename as tname
+	FROM
+	tb_goods gs,
+	tb_goodstype gt
+	WHERE
+	gs.t_id=gt.t_id
+  
+  </select>
+</mapper>
