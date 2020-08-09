@@ -1,0 +1,4 @@
+早自习背诵面试题Spring 框架的理解spring 的 IOC 原理spring 的 AOP 原理
+上午正课学了linux的基础概念
+下午学了linux的命令
+自习课练习代码
