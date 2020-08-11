@@ -1,0 +1,19 @@
+早自习背诵面试题
+正课讲了ssm的导入和导出功能
+导出
+1、从数据库查询所要导出的数据
+2、操作Excel：
+2.1、workbook ——> Excel文件
+2.2、sheet——> excel文件里面的一个sheet页
+2.3、row
+2.4、cell
+导入
+1、模板、下载模板
+2、上传文件（
+3、POI解析Excel文件，版本兼容性问题 workbook对象
+3.1、xlsx  XSSFWorkBook
+3.2、WorkBookFactory 工厂类
+4、workbook——>sheet——>Row——>cell
+5、cell——>值, 赋值给我的实体类对应的属性
+6、把实体类保存入库
+自习练习代码
