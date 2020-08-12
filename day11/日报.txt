@@ -1,0 +1,7 @@
+早自习背面试题
+今天讲了echarts在ssm项目中如何操作
+浏览器中添加按钮 前台jsp写入echarts对话框
+controller service mapper xml 中写入统计的sql
+下午练习代码 技式作业 
+晚上背诵面试题
+
