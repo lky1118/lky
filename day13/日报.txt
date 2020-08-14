@@ -1,0 +1,5 @@
+早自习背诵面试题
+上午正课讲了redis和 mq
+redis 端口号 6379 数据类型 string，list，set，Zset，hash 持久化方式 rdb 和 aof 
+下午讲了ssm的多表操作 
+晚自习练习代码
